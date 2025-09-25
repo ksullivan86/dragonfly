@@ -3,10 +3,10 @@ entries:
   dragonfly:
   - apiVersion: v2
     appVersion: v1.34.1
-    created: "2025-09-25T00:26:12.839241-07:00"
+    created: "2025-09-25T00:57:35.123398-07:00"
     description: Dragonfly is a modern in-memory datastore, fully compatible with
       Redis and Memcached APIs.
-    digest: 979244751b89062accf0a39b3b5b688c4074236b7047f0a2a3e47695514c6d84
+    digest: d5da58b236721dc6299d7dc87a2477dd804c530f00c14820cd20585cbb6719ca
     home: https://dragonflydb.io/
     keywords:
     - database
@@ -20,4 +20,4 @@ entries:
     urls:
     - packaged-charts/dragonfly-v1.34.1.tgz
     version: v1.34.1
-generated: "2025-09-25T00:26:12.837554-07:00"
+generated: "2025-09-25T00:57:35.121568-07:00"
